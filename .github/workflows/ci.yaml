@@ -1,4 +1,4 @@
-name: CI Matrix & Reports
+name: CI Matrix & Reports Workflow
 
 on:
   workflow_dispatch:
